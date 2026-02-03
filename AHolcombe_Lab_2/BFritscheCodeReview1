@@ -1,0 +1,6 @@
+Hello, Au'rias, I have just read over the code for your lab 2, and I think you did a good job on it overall. 
+Everything is well-organized and easy to read, and your SQL functions for average, ascending, etc. are also organized well.
+When I ran the program, the UI was also organized in an even fashion, and it ran successfully without error. All the buttons
+performed their proper functions and the data was easy and clear to read. A way your code differed from mine was that
+you chose to display stats in their own individual message-boxes, while I displayed mine in one message-box. One thing I may change
+would be to name the buttons "btnName" instead of "buttName", but it's up to you. Overall, you did a good job on the Lab2.
