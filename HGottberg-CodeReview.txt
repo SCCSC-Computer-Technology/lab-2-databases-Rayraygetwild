@@ -1,0 +1,22 @@
+Heinrich Gottberg Code Review of Ray Ray Lab 2
+
+Is the code generally readable and well-documented?
+
+	Yes the code is very clean and has no unnecessary lines. Things are spaced 	out well. There are comments detailing what everything does. I prefer my to 	put my comments above the actual block of code but inside works just as well.
+
+Did you find any software defects?
+
+	No, the program ran as expected. The database loaded in correctly and the 
+	data was preserved.
+
+What was one way that their solution differed from yours?
+
+	I used number formatting to give commas to the population numbers, also I put 	the name of the city that had lowest and highest population.
+
+Do you have any other constructive comments for the author?
+
+	I would format the numbers in your output but it isn't too vital to the 
+	programs success.
+
+This code is very clean! It was super easy to tell what everything did and wasn't hard to find anything. All the requirements were met. Great job.
+
